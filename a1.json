@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114458018308",
+    "firebase_url": "https://zi-fcm-learn.firebaseio.com",
+    "project_id": "zi-fcm-learn",
+    "storage_bucket": "zi-fcm-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114458018308:android:7f562c4b50999527d66b51",
+        "android_client_info": {
+          "package_name": "com.yanda.securezi.fcm.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114458018308-sv92k5gcjhnqc8j584opgaslnlo9oqpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4eizGZZYczIoFk4sbrmhoEHEOYiyQuTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114458018308-sv92k5gcjhnqc8j584opgaslnlo9oqpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
